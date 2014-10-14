@@ -9,17 +9,17 @@
 /* Begin PBXBuildFile section */
 		0C79007E19ECEB80008CE4B6 /* BrainduDataModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C79007D19ECEB80008CE4B6 /* BrainduDataModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0C79008819ECEB80008CE4B6 /* BrainduDataModelTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C79008719ECEB80008CE4B6 /* BrainduDataModelTests.m */; };
-		0C79009B19ECEE4F008CE4B6 /* BUPUser.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C79009119ECEE4F008CE4B6 /* BUPUser.h */; };
+		0C79009B19ECEE4F008CE4B6 /* BUPUser.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C79009119ECEE4F008CE4B6 /* BUPUser.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0C79009C19ECEE4F008CE4B6 /* BUPUser.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C79009219ECEE4F008CE4B6 /* BUPUser.m */; };
-		0C79009D19ECEE4F008CE4B6 /* BUPChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C79009319ECEE4F008CE4B6 /* BUPChart.h */; };
+		0C79009D19ECEE4F008CE4B6 /* BUPChart.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C79009319ECEE4F008CE4B6 /* BUPChart.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0C79009E19ECEE4F008CE4B6 /* BUPChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C79009419ECEE4F008CE4B6 /* BUPChart.m */; };
-		0C79009F19ECEE4F008CE4B6 /* BUPItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C79009519ECEE4F008CE4B6 /* BUPItem.h */; };
+		0C79009F19ECEE4F008CE4B6 /* BUPItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C79009519ECEE4F008CE4B6 /* BUPItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0C7900A019ECEE4F008CE4B6 /* BUPItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C79009619ECEE4F008CE4B6 /* BUPItem.m */; };
-		0C7900A119ECEE4F008CE4B6 /* BUPItemComment.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C79009719ECEE4F008CE4B6 /* BUPItemComment.h */; };
+		0C7900A119ECEE4F008CE4B6 /* BUPItemComment.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C79009719ECEE4F008CE4B6 /* BUPItemComment.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0C7900A219ECEE4F008CE4B6 /* BUPItemComment.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C79009819ECEE4F008CE4B6 /* BUPItemComment.m */; };
-		0C7900A319ECEE4F008CE4B6 /* BUPItemVote.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C79009919ECEE4F008CE4B6 /* BUPItemVote.h */; };
+		0C7900A319ECEE4F008CE4B6 /* BUPItemVote.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C79009919ECEE4F008CE4B6 /* BUPItemVote.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0C7900A419ECEE4F008CE4B6 /* BUPItemVote.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C79009A19ECEE4F008CE4B6 /* BUPItemVote.m */; };
-		0C7900A719ECEEC3008CE4B6 /* BUPDataModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C7900A519ECEEC3008CE4B6 /* BUPDataModel.h */; };
+		0C7900A719ECEEC3008CE4B6 /* BUPDataModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C7900A519ECEEC3008CE4B6 /* BUPDataModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0C7900A819ECEEC3008CE4B6 /* BUPDataModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C7900A619ECEEC3008CE4B6 /* BUPDataModel.m */; };
 		0C7900AB19ECF016008CE4B6 /* Bolts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7900A919ECF016008CE4B6 /* Bolts.framework */; };
 		0C7900AC19ECF016008CE4B6 /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C7900AA19ECF016008CE4B6 /* Parse.framework */; };
@@ -101,16 +101,7 @@
 				0C79007D19ECEB80008CE4B6 /* BrainduDataModel.h */,
 				0C7900A519ECEEC3008CE4B6 /* BUPDataModel.h */,
 				0C7900A619ECEEC3008CE4B6 /* BUPDataModel.m */,
-				0C79009119ECEE4F008CE4B6 /* BUPUser.h */,
-				0C79009219ECEE4F008CE4B6 /* BUPUser.m */,
-				0C79009319ECEE4F008CE4B6 /* BUPChart.h */,
-				0C79009419ECEE4F008CE4B6 /* BUPChart.m */,
-				0C79009519ECEE4F008CE4B6 /* BUPItem.h */,
-				0C79009619ECEE4F008CE4B6 /* BUPItem.m */,
-				0C79009719ECEE4F008CE4B6 /* BUPItemComment.h */,
-				0C79009819ECEE4F008CE4B6 /* BUPItemComment.m */,
-				0C79009919ECEE4F008CE4B6 /* BUPItemVote.h */,
-				0C79009A19ECEE4F008CE4B6 /* BUPItemVote.m */,
+				0C7900C019ECF5EF008CE4B6 /* Models */,
 				0C7900AD19ECF052008CE4B6 /* Frameworks */,
 				0C79007B19ECEB80008CE4B6 /* Supporting Files */,
 			);
@@ -152,6 +143,23 @@
 				0C7900AA19ECF016008CE4B6 /* Parse.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		0C7900C019ECF5EF008CE4B6 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				0C79009319ECEE4F008CE4B6 /* BUPChart.h */,
+				0C79009419ECEE4F008CE4B6 /* BUPChart.m */,
+				0C79009519ECEE4F008CE4B6 /* BUPItem.h */,
+				0C79009619ECEE4F008CE4B6 /* BUPItem.m */,
+				0C79009719ECEE4F008CE4B6 /* BUPItemComment.h */,
+				0C79009819ECEE4F008CE4B6 /* BUPItemComment.m */,
+				0C79009919ECEE4F008CE4B6 /* BUPItemVote.h */,
+				0C79009A19ECEE4F008CE4B6 /* BUPItemVote.m */,
+				0C79009119ECEE4F008CE4B6 /* BUPUser.h */,
+				0C79009219ECEE4F008CE4B6 /* BUPUser.m */,
+			);
+			name = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -373,6 +381,7 @@
 		0C79008C19ECEB80008CE4B6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -392,6 +401,7 @@
 		0C79008D19ECEB80008CE4B6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -457,6 +467,7 @@
 				0C79008D19ECEB80008CE4B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0C79008E19ECEB80008CE4B6 /* Build configuration list for PBXNativeTarget "BrainduDataModelTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +476,7 @@
 				0C79009019ECEB80008CE4B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

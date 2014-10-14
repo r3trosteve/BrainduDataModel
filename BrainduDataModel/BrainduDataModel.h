@@ -15,5 +15,9 @@ FOUNDATION_EXPORT double BrainduDataModelVersionNumber;
 FOUNDATION_EXPORT const unsigned char BrainduDataModelVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <BrainduDataModel/PublicHeader.h>
-
-
+#import <BrainduDataModel/BUPDataModel.h>
+#import <BrainduDataModel/BUPChart.h>
+#import <BrainduDataModel/BUPItem.h>
+#import <BrainduDataModel/BUPItemComment.h>
+#import <BrainduDataModel/BUPItemVote.h>
+#import <BrainduDataModel/BUPUser.h>
